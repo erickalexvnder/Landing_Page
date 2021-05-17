@@ -1,0 +1,21 @@
+/* Sylesheet for Landing Page Project*/
+
+/* Google Fonts - 
+
+font-family: 'Lato', sans-serif;
+font-family: 'Newsreader', serif; 
+*/
+
+body {
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+section.intro {
+	height: 500px;
+	background-image: url("bg.jpg");
+	background-size: cover;
+
+}
